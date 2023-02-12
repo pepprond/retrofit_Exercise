@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">networkLez</string>
+
+    <string name="city">%s</string>
+</resources>
