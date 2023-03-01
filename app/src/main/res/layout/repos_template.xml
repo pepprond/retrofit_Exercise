@@ -12,9 +12,8 @@
         android:layout_marginStart="50dp"
         android:layout_marginTop="30dp"
         android:text=" "
+        android:visibility="visible"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        android:visibility="gone"
-        />
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
